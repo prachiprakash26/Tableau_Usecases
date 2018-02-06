@@ -29,6 +29,6 @@ Data Analysis -
 8. Data of Wales shows above average representation of mid size balance
 9. Northern Ireland is represented by younger population and as high as 74% of customers are females
 
-The detailed visualisation can be viewed in this link : https://public.tableau.com/profile/prachi.prakash#!/vizhome/UKBankCustomers-DummyUseCase/StoryLine
+The detailed visualisation can be viewed in this link <a href="https://public.tableau.com/profile/prachi.prakash#!/vizhome/UKBankCustomers-DummyUseCase/StoryLine">here</a>
 
 
